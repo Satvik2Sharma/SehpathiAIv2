@@ -1,0 +1,601 @@
+student_id,question,subject,marks,total_marks,student_answer,model_answer
+S001,Define biodiversity,Environmental Studies,4,10,I am not sure about this topic.,Biodiversity is variety of species in ecosystem
+S001,Define ozone layer,Environmental Studies,5,10,It is related to Ozone layer but I forgot details.,Ozone layer protects from UV rays
+S001,Explain GIL,Advanced Python,5,10,It is related to Global Interpreter but I forgot details.,Global Interpreter Lock prevents multiple native threads execution
+S001,Explain deadlock,OS,10,10,Deadlock is a situation where processes wait and more.,Deadlock is a situation where processes wait indefinitely
+S001,What is JVM?,Java,3,10,I am not sure about this topic.,JVM executes bytecode and provides platform independence
+S001,What is telescope?,Computers in Space & Astronomy,9,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S001,Define virtual memory,OS,9,10,Virtual memory uses disk as memory and more.,Virtual memory uses disk as memory extension
+S001,Explain pandas,Advanced Python,5,10,It is related to Pandas is but I forgot details.,Pandas is used for data manipulation
+S001,Explain OOP principles,Java,5,10,It is related to OOP includes but I forgot details.,OOP includes encapsulation inheritance polymorphism abstraction
+S001,Explain encapsulation,Java,5,10,It is related to Encapsulation binds but I forgot details.,Encapsulation binds data and methods together restricting access
+S002,Define Yoga,IKS,6,10,It is related to Yoga is but I forgot details.,Yoga is physical mental spiritual practice
+S002,Define deforestation,Environmental Studies,4,10,I am not sure about this topic.,Deforestation is removal of forests
+S002,Explain satellites,Computers in Space & Astronomy,6,10,It is related to Satellites orbit but I forgot details.,Satellites orbit planets for communication
+S002,Explain climate change,Environmental Studies,6,10,It is related to Climate change but I forgot details.,Climate change refers to long term weather changes
+S002,Define galaxy,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Galaxy is a system of stars gas and dust
+S002,Explain Vedanta,IKS,7,10,It is related to Vedanta is but I forgot details.,Vedanta is philosophical system based on Vedas
+S002,Explain black hole,Computers in Space & Astronomy,5,10,It is related to Black holes but I forgot details.,Black holes have gravitational pull so strong nothing escapes
+S002,What is OS?,OS,5,10,It is related to OS manages but I forgot details.,OS manages hardware and software resources
+S002,Explain generators,Advanced Python,7,10,It is related to Generators produce but I forgot details.,Generators produce sequence using yield
+S002,Explain exception handling,Java,5,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S003,Explain pollution,Environmental Studies,2,10,I am not sure about this topic.,Pollution is contamination of environment
+S003,Explain pandas,Advanced Python,7,10,It is related to Pandas is but I forgot details.,Pandas is used for data manipulation
+S003,Define polymorphism,Java,8,10,Polymorphism allows methods to take many forms including and more.,Polymorphism allows methods to take many forms including overriding
+S003,Define deforestation,Environmental Studies,2,10,I am not sure about this topic.,Deforestation is removal of forests
+S003,What is JVM?,Java,7,10,It is related to JVM executes but I forgot details.,JVM executes bytecode and provides platform independence
+S003,What is threading?,Advanced Python,7,10,It is related to Threading allows but I forgot details.,Threading allows concurrent execution of code
+S003,What is OS?,OS,4,10,I am not sure about this topic.,OS manages hardware and software resources
+S003,Explain water cycle,Environmental Studies,3,10,I am not sure about this topic.,Water cycle includes evaporation condensation precipitation
+S003,What is NASA?,Computers in Space & Astronomy,4,10,I am not sure about this topic.,NASA is US space agency
+S003,Define ecosystem,Environmental Studies,4,10,I am not sure about this topic.,Ecosystem is interaction of living and nonliving components
+S004,Define universe,Computers in Space & Astronomy,8,10,Universe includes all space matter and and more.,Universe includes all space matter and energy
+S004,Explain exception handling,Java,2,10,I am not sure about this topic.,Exception handling manages runtime errors
+S004,Define ozone layer,Environmental Studies,4,10,I am not sure about this topic.,Ozone layer protects from UV rays
+S004,Explain abstraction,Java,5,10,It is related to Abstraction hides but I forgot details.,Abstraction hides implementation details
+S004,Explain deadlock,OS,7,10,It is related to Deadlock is but I forgot details.,Deadlock is a situation where processes wait indefinitely
+S004,What is threading?,Advanced Python,3,10,I am not sure about this topic.,Threading allows concurrent execution of code
+S004,Explain satellites,Computers in Space & Astronomy,10,10,Satellites orbit planets for and more.,Satellites orbit planets for communication
+S004,Define ecosystem,Environmental Studies,5,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S004,Explain generators,Advanced Python,2,10,I am not sure about this topic.,Generators produce sequence using yield
+S004,Define polymorphism,Java,2,10,I am not sure about this topic.,Polymorphism allows methods to take many forms including overriding
+S005,Explain generators,Advanced Python,6,10,It is related to Generators produce but I forgot details.,Generators produce sequence using yield
+S005,What is telescope?,Computers in Space & Astronomy,6,10,It is related to Telescope collects but I forgot details.,Telescope collects light to observe distant objects
+S005,Explain lambda functions,Advanced Python,6,10,It is related to Lambda functions but I forgot details.,Lambda functions are small anonymous inline functions
+S005,Explain carbon footprint,Environmental Studies,4,10,I am not sure about this topic.,Carbon footprint measures greenhouse gases
+S005,Define thread,OS,7,10,It is related to Thread is but I forgot details.,Thread is smallest unit of execution within a process
+S005,Explain inheritance,Java,4,10,I am not sure about this topic.,Inheritance allows a class to acquire properties of another class
+S005,Define universe,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Universe includes all space matter and energy
+S005,Explain exception handling,Java,5,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S005,What is OS?,OS,6,10,It is related to OS manages but I forgot details.,OS manages hardware and software resources
+S005,What is JVM?,Java,8,10,JVM executes bytecode and provides platform and more.,JVM executes bytecode and provides platform independence
+S006,Define thread,OS,3,10,I am not sure about this topic.,Thread is smallest unit of execution within a process
+S006,Explain GIL,Advanced Python,10,10,Global Interpreter Lock prevents multiple native threads and more.,Global Interpreter Lock prevents multiple native threads execution
+S006,Explain Vedanta,IKS,3,10,I am not sure about this topic.,Vedanta is philosophical system based on Vedas
+S006,What is sustainability?,Environmental Studies,5,10,It is related to Sustainability meets but I forgot details.,Sustainability meets needs without harming future
+S006,Explain list comprehension,Advanced Python,7,10,It is related to List comprehension but I forgot details.,List comprehension provides concise syntax for lists
+S006,Explain pandas,Advanced Python,7,10,It is related to Pandas is but I forgot details.,Pandas is used for data manipulation
+S006,Explain lambda functions,Advanced Python,8,10,Lambda functions are small anonymous inline and more.,Lambda functions are small anonymous inline functions
+S006,What is telescope?,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Telescope collects light to observe distant objects
+S006,Explain semaphore,OS,3,10,I am not sure about this topic.,Semaphore controls access to resources
+S006,Explain deadlock,OS,3,10,I am not sure about this topic.,Deadlock is a situation where processes wait indefinitely
+S007,Explain nebula,Computers in Space & Astronomy,8,10,Nebula is cloud of gas and and more.,Nebula is cloud of gas and dust
+S007,What is NASA?,Computers in Space & Astronomy,9,10,NASA is US space and more.,NASA is US space agency
+S007,Explain Ayurveda,IKS,2,10,I am not sure about this topic.,Ayurveda is ancient Indian system of medicine
+S007,Define Yoga,IKS,4,10,I am not sure about this topic.,Yoga is physical mental spiritual practice
+S007,Explain carbon footprint,Environmental Studies,5,10,It is related to Carbon footprint but I forgot details.,Carbon footprint measures greenhouse gases
+S007,Explain Dharma,IKS,3,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S007,What is multiprocessing?,Advanced Python,4,10,I am not sure about this topic.,Multiprocessing runs processes in parallel
+S007,What is class?,Java,3,10,I am not sure about this topic.,Class defines structure of object
+S007,Explain Indian mathematics,IKS,2,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S007,What is telescope?,Computers in Space & Astronomy,10,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S008,Explain water cycle,Environmental Studies,6,10,It is related to Water cycle but I forgot details.,Water cycle includes evaporation condensation precipitation
+S008,Define ozone layer,Environmental Studies,4,10,I am not sure about this topic.,Ozone layer protects from UV rays
+S008,Explain Vedas,IKS,6,10,It is related to Vedas are but I forgot details.,Vedas are ancient sacred Indian scriptures
+S008,Explain Ayurveda,IKS,8,10,Ayurveda is ancient Indian system of and more.,Ayurveda is ancient Indian system of medicine
+S008,What is threading?,Advanced Python,5,10,It is related to Threading allows but I forgot details.,Threading allows concurrent execution of code
+S008,Define biodiversity,Environmental Studies,8,10,Biodiversity is variety of species in and more.,Biodiversity is variety of species in ecosystem
+S008,Define interface,Java,4,10,I am not sure about this topic.,Interface defines methods without implementation
+S008,Explain OOP principles,Java,8,10,OOP includes encapsulation inheritance polymorphism and more.,OOP includes encapsulation inheritance polymorphism abstraction
+S008,Explain OOP concepts,Java,4,10,I am not sure about this topic.,OOP uses encapsulation inheritance polymorphism abstraction
+S008,Define galaxy,Computers in Space & Astronomy,6,10,It is related to Galaxy is but I forgot details.,Galaxy is a system of stars gas and dust
+S009,Explain generators,Advanced Python,9,10,Generators produce sequence using and more.,Generators produce sequence using yield
+S009,Explain Dharma,IKS,4,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S009,What is NASA?,Computers in Space & Astronomy,2,10,I am not sure about this topic.,NASA is US space agency
+S009,Explain encapsulation,Java,7,10,It is related to Encapsulation binds but I forgot details.,Encapsulation binds data and methods together restricting access
+S009,Define light year,Computers in Space & Astronomy,2,10,I am not sure about this topic.,Light year is distance light travels in one year
+S009,Explain paging,OS,2,10,I am not sure about this topic.,Paging divides memory into fixed size pages
+S009,Explain star formation,Computers in Space & Astronomy,5,10,It is related to Stars form but I forgot details.,Stars form from gas clouds
+S009,Define ecosystem,Environmental Studies,5,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S009,Explain lambda functions,Advanced Python,8,10,Lambda functions are small anonymous inline and more.,Lambda functions are small anonymous inline functions
+S009,What is scheduling?,OS,4,10,I am not sure about this topic.,CPU scheduling decides process execution order
+S010,Explain abstraction,Java,2,10,I am not sure about this topic.,Abstraction hides implementation details
+S010,Explain nebula,Computers in Space & Astronomy,10,10,Nebula is cloud of gas and and more.,Nebula is cloud of gas and dust
+S010,What is JVM?,Java,4,10,I am not sure about this topic.,JVM executes bytecode and provides platform independence
+S010,What is sustainability?,Environmental Studies,4,10,I am not sure about this topic.,Sustainability meets needs without harming future
+S010,Explain inheritance,Java,3,10,I am not sure about this topic.,Inheritance allows a class to acquire properties of another class
+S010,Explain paging,OS,8,10,Paging divides memory into fixed size and more.,Paging divides memory into fixed size pages
+S010,What is threading?,Advanced Python,4,10,I am not sure about this topic.,Threading allows concurrent execution of code
+S010,Define orbit,Computers in Space & Astronomy,9,10,Orbit is curved path of celestial and more.,Orbit is curved path of celestial body
+S010,What is IKS?,IKS,5,10,It is related to IKS studies but I forgot details.,IKS studies traditional Indian knowledge systems
+S010,Explain Vedas,IKS,4,10,I am not sure about this topic.,Vedas are ancient sacred Indian scriptures
+S011,Explain semaphore,OS,5,10,It is related to Semaphore controls but I forgot details.,Semaphore controls access to resources
+S011,Define ecosystem,Environmental Studies,7,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S011,Explain lambda functions,Advanced Python,4,10,I am not sure about this topic.,Lambda functions are small anonymous inline functions
+S011,Explain list comprehension,Advanced Python,6,10,It is related to List comprehension but I forgot details.,List comprehension provides concise syntax for lists
+S011,What is telescope?,Computers in Space & Astronomy,8,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S011,Explain Indian mathematics,IKS,6,10,It is related to Indian mathematics but I forgot details.,Indian mathematics contributed zero and algebra
+S011,Explain pandas,Advanced Python,7,10,It is related to Pandas is but I forgot details.,Pandas is used for data manipulation
+S011,Define kernel,OS,7,10,It is related to Kernel manages but I forgot details.,Kernel manages hardware and system calls
+S011,What is threading?,Advanced Python,6,10,It is related to Threading allows but I forgot details.,Threading allows concurrent execution of code
+S011,Explain nebula,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Nebula is cloud of gas and dust
+S012,Define kernel,OS,5,10,It is related to Kernel manages but I forgot details.,Kernel manages hardware and system calls
+S012,Define polymorphism,Java,10,10,Polymorphism allows methods to take many forms including and more.,Polymorphism allows methods to take many forms including overriding
+S012,What is scheduling?,OS,5,10,It is related to CPU scheduling but I forgot details.,CPU scheduling decides process execution order
+S012,Explain Ayurveda,IKS,3,10,I am not sure about this topic.,Ayurveda is ancient Indian system of medicine
+S012,What is OS?,OS,3,10,I am not sure about this topic.,OS manages hardware and software resources
+S012,What is class?,Java,9,10,Class defines structure of and more.,Class defines structure of object
+S012,Explain exception handling,Java,7,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S012,Explain Dharma,IKS,5,10,It is related to Dharma refers but I forgot details.,Dharma refers to duty and ethics
+S012,Explain carbon footprint,Environmental Studies,4,10,I am not sure about this topic.,Carbon footprint measures greenhouse gases
+S012,Explain recycling,Environmental Studies,4,10,I am not sure about this topic.,Recycling converts waste into reusable material
+S013,Define universe,Computers in Space & Astronomy,9,10,Universe includes all space matter and and more.,Universe includes all space matter and energy
+S013,Define polymorphism,Java,4,10,I am not sure about this topic.,Polymorphism allows methods to take many forms including overriding
+S013,What is class?,Java,4,10,I am not sure about this topic.,Class defines structure of object
+S013,Explain satellites,Computers in Space & Astronomy,9,10,Satellites orbit planets for and more.,Satellites orbit planets for communication
+S013,Explain Dharma,IKS,4,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S013,What is sustainability?,Environmental Studies,2,10,I am not sure about this topic.,Sustainability meets needs without harming future
+S013,Define kernel,OS,9,10,Kernel manages hardware and system and more.,Kernel manages hardware and system calls
+S013,Define galaxy,Computers in Space & Astronomy,10,10,Galaxy is a system of stars gas and and more.,Galaxy is a system of stars gas and dust
+S013,Explain pollution,Environmental Studies,4,10,I am not sure about this topic.,Pollution is contamination of environment
+S013,Explain OOP concepts,Java,2,10,I am not sure about this topic.,OOP uses encapsulation inheritance polymorphism abstraction
+S014,Define ozone layer,Environmental Studies,5,10,It is related to Ozone layer but I forgot details.,Ozone layer protects from UV rays
+S014,Explain multithreading,Advanced Python,7,10,It is related to Multithreading runs but I forgot details.,Multithreading runs tasks concurrently
+S014,Explain generators,Advanced Python,7,10,It is related to Generators produce but I forgot details.,Generators produce sequence using yield
+S014,What is threading?,Advanced Python,5,10,It is related to Threading allows but I forgot details.,Threading allows concurrent execution of code
+S014,What is async?,Advanced Python,8,10,Async allows non blocking and more.,Async allows non blocking execution
+S014,Explain paging,OS,5,10,It is related to Paging divides but I forgot details.,Paging divides memory into fixed size pages
+S014,Explain nebula,Computers in Space & Astronomy,8,10,Nebula is cloud of gas and and more.,Nebula is cloud of gas and dust
+S014,Define Yoga,IKS,5,10,It is related to Yoga is but I forgot details.,Yoga is physical mental spiritual practice
+S014,Explain Dharma,IKS,4,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S014,Explain carbon footprint,Environmental Studies,6,10,It is related to Carbon footprint but I forgot details.,Carbon footprint measures greenhouse gases
+S015,What is IKS?,IKS,2,10,I am not sure about this topic.,IKS studies traditional Indian knowledge systems
+S015,Define Yoga,IKS,3,10,I am not sure about this topic.,Yoga is physical mental spiritual practice
+S015,Explain inheritance,Java,8,10,Inheritance allows a class to acquire properties of another and more.,Inheritance allows a class to acquire properties of another class
+S015,What is async?,Advanced Python,8,10,Async allows non blocking and more.,Async allows non blocking execution
+S015,Explain paging,OS,2,10,I am not sure about this topic.,Paging divides memory into fixed size pages
+S015,Define Gurukul,IKS,5,10,It is related to Gurukul is but I forgot details.,Gurukul is traditional Indian education system
+S015,Explain GIL,Advanced Python,8,10,Global Interpreter Lock prevents multiple native threads and more.,Global Interpreter Lock prevents multiple native threads execution
+S015,What is sustainability?,Environmental Studies,2,10,I am not sure about this topic.,Sustainability meets needs without harming future
+S015,Explain recycling,Environmental Studies,2,10,I am not sure about this topic.,Recycling converts waste into reusable material
+S015,Explain Vedas,IKS,3,10,I am not sure about this topic.,Vedas are ancient sacred Indian scriptures
+S016,Explain lambda functions,Advanced Python,2,10,I am not sure about this topic.,Lambda functions are small anonymous inline functions
+S016,Define polymorphism,Java,5,10,It is related to Polymorphism allows but I forgot details.,Polymorphism allows methods to take many forms including overriding
+S016,Explain Ayurveda,IKS,5,10,It is related to Ayurveda is but I forgot details.,Ayurveda is ancient Indian system of medicine
+S016,What is JVM?,Java,2,10,I am not sure about this topic.,JVM executes bytecode and provides platform independence
+S016,Define thread,OS,10,10,Thread is smallest unit of execution within a and more.,Thread is smallest unit of execution within a process
+S016,Explain pollution,Environmental Studies,3,10,I am not sure about this topic.,Pollution is contamination of environment
+S016,Explain encapsulation,Java,4,10,I am not sure about this topic.,Encapsulation binds data and methods together restricting access
+S016,Define Yoga,IKS,5,10,It is related to Yoga is but I forgot details.,Yoga is physical mental spiritual practice
+S016,Explain deadlock,OS,8,10,Deadlock is a situation where processes wait and more.,Deadlock is a situation where processes wait indefinitely
+S016,Explain GIL,Advanced Python,5,10,It is related to Global Interpreter but I forgot details.,Global Interpreter Lock prevents multiple native threads execution
+S017,Explain multithreading,Advanced Python,5,10,It is related to Multithreading runs but I forgot details.,Multithreading runs tasks concurrently
+S017,Explain list comprehension,Advanced Python,8,10,List comprehension provides concise syntax for and more.,List comprehension provides concise syntax for lists
+S017,Define kernel,OS,4,10,I am not sure about this topic.,Kernel manages hardware and system calls
+S017,Define orbit,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Orbit is curved path of celestial body
+S017,Define interface,Java,7,10,It is related to Interface defines but I forgot details.,Interface defines methods without implementation
+S017,Explain deadlock,OS,8,10,Deadlock is a situation where processes wait and more.,Deadlock is a situation where processes wait indefinitely
+S017,Explain pandas,Advanced Python,5,10,It is related to Pandas is but I forgot details.,Pandas is used for data manipulation
+S017,Explain Dharma,IKS,8,10,Dharma refers to duty and and more.,Dharma refers to duty and ethics
+S017,Explain water cycle,Environmental Studies,6,10,It is related to Water cycle but I forgot details.,Water cycle includes evaporation condensation precipitation
+S017,Explain climate change,Environmental Studies,4,10,I am not sure about this topic.,Climate change refers to long term weather changes
+S018,What is decorator?,Advanced Python,8,10,Decorators modify behavior of functions and more.,Decorators modify behavior of functions dynamically
+S018,Explain pandas,Advanced Python,8,10,Pandas is used for data and more.,Pandas is used for data manipulation
+S018,Explain Dharma,IKS,5,10,It is related to Dharma refers but I forgot details.,Dharma refers to duty and ethics
+S018,Explain inheritance,Java,7,10,It is related to Inheritance allows but I forgot details.,Inheritance allows a class to acquire properties of another class
+S018,Explain generators,Advanced Python,8,10,Generators produce sequence using and more.,Generators produce sequence using yield
+S018,Define deforestation,Environmental Studies,3,10,I am not sure about this topic.,Deforestation is removal of forests
+S018,Explain pollution,Environmental Studies,4,10,I am not sure about this topic.,Pollution is contamination of environment
+S018,Define biodiversity,Environmental Studies,5,10,It is related to Biodiversity is but I forgot details.,Biodiversity is variety of species in ecosystem
+S018,Explain deadlock,OS,4,10,I am not sure about this topic.,Deadlock is a situation where processes wait indefinitely
+S018,Define orbit,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Orbit is curved path of celestial body
+S019,Explain Ayurveda,IKS,2,10,I am not sure about this topic.,Ayurveda is ancient Indian system of medicine
+S019,What is process?,OS,7,10,It is related to A process but I forgot details.,A process is an active program with its resources
+S019,Explain star formation,Computers in Space & Astronomy,9,10,Stars form from gas and more.,Stars form from gas clouds
+S019,Explain list comprehension,Advanced Python,5,10,It is related to List comprehension but I forgot details.,List comprehension provides concise syntax for lists
+S019,Define deforestation,Environmental Studies,2,10,I am not sure about this topic.,Deforestation is removal of forests
+S019,What is class?,Java,2,10,I am not sure about this topic.,Class defines structure of object
+S019,What is threading?,Advanced Python,3,10,I am not sure about this topic.,Threading allows concurrent execution of code
+S019,What is scheduling?,OS,10,10,CPU scheduling decides process execution and more.,CPU scheduling decides process execution order
+S019,Explain generators,Advanced Python,5,10,It is related to Generators produce but I forgot details.,Generators produce sequence using yield
+S019,Explain pandas,Advanced Python,5,10,It is related to Pandas is but I forgot details.,Pandas is used for data manipulation
+S020,Define kernel,OS,8,10,Kernel manages hardware and system and more.,Kernel manages hardware and system calls
+S020,Explain GIL,Advanced Python,8,10,Global Interpreter Lock prevents multiple native threads and more.,Global Interpreter Lock prevents multiple native threads execution
+S020,What is telescope?,Computers in Space & Astronomy,8,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S020,What is NASA?,Computers in Space & Astronomy,6,10,It is related to NASA is but I forgot details.,NASA is US space agency
+S020,Explain multithreading,Advanced Python,4,10,I am not sure about this topic.,Multithreading runs tasks concurrently
+S020,Explain exception handling,Java,7,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S020,Define virtual memory,OS,5,10,It is related to Virtual memory but I forgot details.,Virtual memory uses disk as memory extension
+S020,Explain star formation,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Stars form from gas clouds
+S020,Define Yoga,IKS,4,10,I am not sure about this topic.,Yoga is physical mental spiritual practice
+S020,Explain list comprehension,Advanced Python,5,10,It is related to List comprehension but I forgot details.,List comprehension provides concise syntax for lists
+S021,What is class?,Java,10,10,Class defines structure of and more.,Class defines structure of object
+S021,Explain encapsulation,Java,10,10,Encapsulation binds data and methods together restricting and more.,Encapsulation binds data and methods together restricting access
+S021,Define interface,Java,7,10,It is related to Interface defines but I forgot details.,Interface defines methods without implementation
+S021,Define ozone layer,Environmental Studies,2,10,I am not sure about this topic.,Ozone layer protects from UV rays
+S021,Explain semaphore,OS,4,10,I am not sure about this topic.,Semaphore controls access to resources
+S021,Explain star formation,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Stars form from gas clouds
+S021,Explain multithreading,Advanced Python,8,10,Multithreading runs tasks and more.,Multithreading runs tasks concurrently
+S021,Define polymorphism,Java,8,10,Polymorphism allows methods to take many forms including and more.,Polymorphism allows methods to take many forms including overriding
+S021,Define biodiversity,Environmental Studies,3,10,I am not sure about this topic.,Biodiversity is variety of species in ecosystem
+S021,What is IKS?,IKS,5,10,It is related to IKS studies but I forgot details.,IKS studies traditional Indian knowledge systems
+S022,Explain file system,OS,10,10,File system organizes and stores and more.,File system organizes and stores data
+S022,Explain semaphore,OS,8,10,Semaphore controls access to and more.,Semaphore controls access to resources
+S022,Define Charaka,IKS,3,10,I am not sure about this topic.,Charaka was ancient physician
+S022,What is async?,Advanced Python,3,10,I am not sure about this topic.,Async allows non blocking execution
+S022,Define ozone layer,Environmental Studies,5,10,It is related to Ozone layer but I forgot details.,Ozone layer protects from UV rays
+S022,Explain satellites,Computers in Space & Astronomy,8,10,Satellites orbit planets for and more.,Satellites orbit planets for communication
+S022,Explain water cycle,Environmental Studies,2,10,I am not sure about this topic.,Water cycle includes evaporation condensation precipitation
+S022,Explain Indian mathematics,IKS,4,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S022,What is IKS?,IKS,2,10,I am not sure about this topic.,IKS studies traditional Indian knowledge systems
+S022,Explain Dharma,IKS,5,10,It is related to Dharma refers but I forgot details.,Dharma refers to duty and ethics
+S023,Explain GIL,Advanced Python,6,10,It is related to Global Interpreter but I forgot details.,Global Interpreter Lock prevents multiple native threads execution
+S023,Explain carbon footprint,Environmental Studies,8,10,Carbon footprint measures greenhouse and more.,Carbon footprint measures greenhouse gases
+S023,Explain Ayurveda,IKS,6,10,It is related to Ayurveda is but I forgot details.,Ayurveda is ancient Indian system of medicine
+S023,Define Gurukul,IKS,4,10,I am not sure about this topic.,Gurukul is traditional Indian education system
+S023,Define ecosystem,Environmental Studies,7,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S023,Explain pandas,Advanced Python,8,10,Pandas is used for data and more.,Pandas is used for data manipulation
+S023,What is process?,OS,5,10,It is related to A process but I forgot details.,A process is an active program with its resources
+S023,What is IKS?,IKS,4,10,I am not sure about this topic.,IKS studies traditional Indian knowledge systems
+S023,Explain Vedas,IKS,7,10,It is related to Vedas are but I forgot details.,Vedas are ancient sacred Indian scriptures
+S023,Explain water cycle,Environmental Studies,6,10,It is related to Water cycle but I forgot details.,Water cycle includes evaporation condensation precipitation
+S024,What is telescope?,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Telescope collects light to observe distant objects
+S024,Explain paging,OS,4,10,I am not sure about this topic.,Paging divides memory into fixed size pages
+S024,Explain satellites,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Satellites orbit planets for communication
+S024,Explain OOP principles,Java,8,10,OOP includes encapsulation inheritance polymorphism and more.,OOP includes encapsulation inheritance polymorphism abstraction
+S024,Explain OOP concepts,Java,10,10,OOP uses encapsulation inheritance polymorphism and more.,OOP uses encapsulation inheritance polymorphism abstraction
+S024,Explain star formation,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Stars form from gas clouds
+S024,Explain GIL,Advanced Python,8,10,Global Interpreter Lock prevents multiple native threads and more.,Global Interpreter Lock prevents multiple native threads execution
+S024,Explain climate change,Environmental Studies,3,10,I am not sure about this topic.,Climate change refers to long term weather changes
+S024,Explain exception handling,Java,7,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S024,Define deforestation,Environmental Studies,2,10,I am not sure about this topic.,Deforestation is removal of forests
+S025,Define universe,Computers in Space & Astronomy,7,10,It is related to Universe includes but I forgot details.,Universe includes all space matter and energy
+S025,Define biodiversity,Environmental Studies,4,10,I am not sure about this topic.,Biodiversity is variety of species in ecosystem
+S025,Define ecosystem,Environmental Studies,5,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S025,What is async?,Advanced Python,3,10,I am not sure about this topic.,Async allows non blocking execution
+S025,What is telescope?,Computers in Space & Astronomy,7,10,It is related to Telescope collects but I forgot details.,Telescope collects light to observe distant objects
+S025,Explain exception handling,Java,2,10,I am not sure about this topic.,Exception handling manages runtime errors
+S025,Explain deadlock,OS,7,10,It is related to Deadlock is but I forgot details.,Deadlock is a situation where processes wait indefinitely
+S025,Define thread,OS,8,10,Thread is smallest unit of execution within a and more.,Thread is smallest unit of execution within a process
+S025,What is decorator?,Advanced Python,4,10,I am not sure about this topic.,Decorators modify behavior of functions dynamically
+S025,What is class?,Java,5,10,It is related to Class defines but I forgot details.,Class defines structure of object
+S026,What is multiprocessing?,Advanced Python,4,10,I am not sure about this topic.,Multiprocessing runs processes in parallel
+S026,Define kernel,OS,5,10,It is related to Kernel manages but I forgot details.,Kernel manages hardware and system calls
+S026,Explain Dharma,IKS,4,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S026,Explain Indian mathematics,IKS,4,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S026,Explain pandas,Advanced Python,6,10,It is related to Pandas is but I forgot details.,Pandas is used for data manipulation
+S026,What is IKS?,IKS,5,10,It is related to IKS studies but I forgot details.,IKS studies traditional Indian knowledge systems
+S026,Define polymorphism,Java,5,10,It is related to Polymorphism allows but I forgot details.,Polymorphism allows methods to take many forms including overriding
+S026,Explain OOP concepts,Java,8,10,OOP uses encapsulation inheritance polymorphism and more.,OOP uses encapsulation inheritance polymorphism abstraction
+S026,What is NASA?,Computers in Space & Astronomy,7,10,It is related to NASA is but I forgot details.,NASA is US space agency
+S026,Explain pollution,Environmental Studies,7,10,It is related to Pollution is but I forgot details.,Pollution is contamination of environment
+S027,Explain Indian mathematics,IKS,3,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S027,Define Gurukul,IKS,3,10,I am not sure about this topic.,Gurukul is traditional Indian education system
+S027,What is process?,OS,4,10,I am not sure about this topic.,A process is an active program with its resources
+S027,Explain pollution,Environmental Studies,2,10,I am not sure about this topic.,Pollution is contamination of environment
+S027,What is NASA?,Computers in Space & Astronomy,3,10,I am not sure about this topic.,NASA is US space agency
+S027,Explain lambda functions,Advanced Python,8,10,Lambda functions are small anonymous inline and more.,Lambda functions are small anonymous inline functions
+S027,What is class?,Java,8,10,Class defines structure of and more.,Class defines structure of object
+S027,What is Sanskrit?,IKS,4,10,I am not sure about this topic.,Sanskrit is classical Indian language used in texts
+S027,Explain recycling,Environmental Studies,2,10,I am not sure about this topic.,Recycling converts waste into reusable material
+S027,Explain GIL,Advanced Python,9,10,Global Interpreter Lock prevents multiple native threads and more.,Global Interpreter Lock prevents multiple native threads execution
+S028,Define orbit,Computers in Space & Astronomy,8,10,Orbit is curved path of celestial and more.,Orbit is curved path of celestial body
+S028,Explain list comprehension,Advanced Python,5,10,It is related to List comprehension but I forgot details.,List comprehension provides concise syntax for lists
+S028,What is OS?,OS,7,10,It is related to OS manages but I forgot details.,OS manages hardware and software resources
+S028,Explain Indian mathematics,IKS,3,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S028,Explain Vedas,IKS,2,10,I am not sure about this topic.,Vedas are ancient sacred Indian scriptures
+S028,Define deforestation,Environmental Studies,3,10,I am not sure about this topic.,Deforestation is removal of forests
+S028,What is scheduling?,OS,10,10,CPU scheduling decides process execution and more.,CPU scheduling decides process execution order
+S028,What is threading?,Advanced Python,5,10,It is related to Threading allows but I forgot details.,Threading allows concurrent execution of code
+S028,Define kernel,OS,7,10,It is related to Kernel manages but I forgot details.,Kernel manages hardware and system calls
+S028,Explain encapsulation,Java,4,10,I am not sure about this topic.,Encapsulation binds data and methods together restricting access
+S029,Explain semaphore,OS,4,10,I am not sure about this topic.,Semaphore controls access to resources
+S029,What is sustainability?,Environmental Studies,7,10,It is related to Sustainability meets but I forgot details.,Sustainability meets needs without harming future
+S029,Explain file system,OS,5,10,It is related to File system but I forgot details.,File system organizes and stores data
+S029,What is Sanskrit?,IKS,5,10,It is related to Sanskrit is but I forgot details.,Sanskrit is classical Indian language used in texts
+S029,Explain encapsulation,Java,7,10,It is related to Encapsulation binds but I forgot details.,Encapsulation binds data and methods together restricting access
+S029,Explain inheritance,Java,8,10,Inheritance allows a class to acquire properties of another and more.,Inheritance allows a class to acquire properties of another class
+S029,Explain OOP concepts,Java,6,10,It is related to OOP uses but I forgot details.,OOP uses encapsulation inheritance polymorphism abstraction
+S029,Explain recycling,Environmental Studies,5,10,It is related to Recycling converts but I forgot details.,Recycling converts waste into reusable material
+S029,Define interface,Java,7,10,It is related to Interface defines but I forgot details.,Interface defines methods without implementation
+S029,Explain water cycle,Environmental Studies,8,10,Water cycle includes evaporation condensation and more.,Water cycle includes evaporation condensation precipitation
+S030,Explain OOP concepts,Java,9,10,OOP uses encapsulation inheritance polymorphism and more.,OOP uses encapsulation inheritance polymorphism abstraction
+S030,What is JVM?,Java,7,10,It is related to JVM executes but I forgot details.,JVM executes bytecode and provides platform independence
+S030,Explain Vedas,IKS,3,10,I am not sure about this topic.,Vedas are ancient sacred Indian scriptures
+S030,What is Sanskrit?,IKS,2,10,I am not sure about this topic.,Sanskrit is classical Indian language used in texts
+S030,Define interface,Java,7,10,It is related to Interface defines but I forgot details.,Interface defines methods without implementation
+S030,Explain pandas,Advanced Python,10,10,Pandas is used for data and more.,Pandas is used for data manipulation
+S030,Define ecosystem,Environmental Studies,5,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S030,Explain satellites,Computers in Space & Astronomy,5,10,It is related to Satellites orbit but I forgot details.,Satellites orbit planets for communication
+S030,Define biodiversity,Environmental Studies,5,10,It is related to Biodiversity is but I forgot details.,Biodiversity is variety of species in ecosystem
+S030,Explain lambda functions,Advanced Python,7,10,It is related to Lambda functions but I forgot details.,Lambda functions are small anonymous inline functions
+S031,Define universe,Computers in Space & Astronomy,8,10,Universe includes all space matter and and more.,Universe includes all space matter and energy
+S031,Explain lambda functions,Advanced Python,2,10,I am not sure about this topic.,Lambda functions are small anonymous inline functions
+S031,What is sustainability?,Environmental Studies,5,10,It is related to Sustainability meets but I forgot details.,Sustainability meets needs without harming future
+S031,What is telescope?,Computers in Space & Astronomy,8,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S031,What is async?,Advanced Python,4,10,I am not sure about this topic.,Async allows non blocking execution
+S031,What is JVM?,Java,4,10,I am not sure about this topic.,JVM executes bytecode and provides platform independence
+S031,Explain Vedanta,IKS,4,10,I am not sure about this topic.,Vedanta is philosophical system based on Vedas
+S031,Explain OOP principles,Java,4,10,I am not sure about this topic.,OOP includes encapsulation inheritance polymorphism abstraction
+S031,Explain pandas,Advanced Python,4,10,I am not sure about this topic.,Pandas is used for data manipulation
+S031,Explain GIL,Advanced Python,5,10,It is related to Global Interpreter but I forgot details.,Global Interpreter Lock prevents multiple native threads execution
+S032,Define ecosystem,Environmental Studies,4,10,I am not sure about this topic.,Ecosystem is interaction of living and nonliving components
+S032,Explain OOP principles,Java,4,10,I am not sure about this topic.,OOP includes encapsulation inheritance polymorphism abstraction
+S032,What is telescope?,Computers in Space & Astronomy,8,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S032,What is class?,Java,8,10,Class defines structure of and more.,Class defines structure of object
+S032,Explain exception handling,Java,7,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S032,What is decorator?,Advanced Python,7,10,It is related to Decorators modify but I forgot details.,Decorators modify behavior of functions dynamically
+S032,Explain Dharma,IKS,4,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S032,Define universe,Computers in Space & Astronomy,7,10,It is related to Universe includes but I forgot details.,Universe includes all space matter and energy
+S032,Explain carbon footprint,Environmental Studies,8,10,Carbon footprint measures greenhouse and more.,Carbon footprint measures greenhouse gases
+S032,Explain Vedas,IKS,7,10,It is related to Vedas are but I forgot details.,Vedas are ancient sacred Indian scriptures
+S033,What is process?,OS,2,10,I am not sure about this topic.,A process is an active program with its resources
+S033,Explain Indian mathematics,IKS,5,10,It is related to Indian mathematics but I forgot details.,Indian mathematics contributed zero and algebra
+S033,What is multiprocessing?,Advanced Python,7,10,It is related to Multiprocessing runs but I forgot details.,Multiprocessing runs processes in parallel
+S033,Explain OOP principles,Java,9,10,OOP includes encapsulation inheritance polymorphism and more.,OOP includes encapsulation inheritance polymorphism abstraction
+S033,Explain GIL,Advanced Python,7,10,It is related to Global Interpreter but I forgot details.,Global Interpreter Lock prevents multiple native threads execution
+S033,What is threading?,Advanced Python,9,10,Threading allows concurrent execution of and more.,Threading allows concurrent execution of code
+S033,Define deforestation,Environmental Studies,4,10,I am not sure about this topic.,Deforestation is removal of forests
+S033,Define thread,OS,5,10,It is related to Thread is but I forgot details.,Thread is smallest unit of execution within a process
+S033,Explain water cycle,Environmental Studies,5,10,It is related to Water cycle but I forgot details.,Water cycle includes evaporation condensation precipitation
+S033,Define ozone layer,Environmental Studies,5,10,It is related to Ozone layer but I forgot details.,Ozone layer protects from UV rays
+S034,What is process?,OS,9,10,A process is an active program with its and more.,A process is an active program with its resources
+S034,Explain Ayurveda,IKS,2,10,I am not sure about this topic.,Ayurveda is ancient Indian system of medicine
+S034,Explain Indian mathematics,IKS,5,10,It is related to Indian mathematics but I forgot details.,Indian mathematics contributed zero and algebra
+S034,Define ozone layer,Environmental Studies,2,10,I am not sure about this topic.,Ozone layer protects from UV rays
+S034,Define orbit,Computers in Space & Astronomy,7,10,It is related to Orbit is but I forgot details.,Orbit is curved path of celestial body
+S034,Explain OOP concepts,Java,5,10,It is related to OOP uses but I forgot details.,OOP uses encapsulation inheritance polymorphism abstraction
+S034,Define universe,Computers in Space & Astronomy,9,10,Universe includes all space matter and and more.,Universe includes all space matter and energy
+S034,Explain semaphore,OS,10,10,Semaphore controls access to and more.,Semaphore controls access to resources
+S034,What is class?,Java,5,10,It is related to Class defines but I forgot details.,Class defines structure of object
+S034,Explain abstraction,Java,5,10,It is related to Abstraction hides but I forgot details.,Abstraction hides implementation details
+S035,Define universe,Computers in Space & Astronomy,6,10,It is related to Universe includes but I forgot details.,Universe includes all space matter and energy
+S035,What is sustainability?,Environmental Studies,4,10,I am not sure about this topic.,Sustainability meets needs without harming future
+S035,Explain GIL,Advanced Python,8,10,Global Interpreter Lock prevents multiple native threads and more.,Global Interpreter Lock prevents multiple native threads execution
+S035,Define deforestation,Environmental Studies,6,10,It is related to Deforestation is but I forgot details.,Deforestation is removal of forests
+S035,Define orbit,Computers in Space & Astronomy,5,10,It is related to Orbit is but I forgot details.,Orbit is curved path of celestial body
+S035,Explain Vedas,IKS,6,10,It is related to Vedas are but I forgot details.,Vedas are ancient sacred Indian scriptures
+S035,Explain star formation,Computers in Space & Astronomy,6,10,It is related to Stars form but I forgot details.,Stars form from gas clouds
+S035,Explain black hole,Computers in Space & Astronomy,8,10,Black holes have gravitational pull so strong nothing and more.,Black holes have gravitational pull so strong nothing escapes
+S035,Explain exception handling,Java,7,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S035,Explain deadlock,OS,8,10,Deadlock is a situation where processes wait and more.,Deadlock is a situation where processes wait indefinitely
+S036,Define polymorphism,Java,7,10,It is related to Polymorphism allows but I forgot details.,Polymorphism allows methods to take many forms including overriding
+S036,Define thread,OS,2,10,I am not sure about this topic.,Thread is smallest unit of execution within a process
+S036,Define light year,Computers in Space & Astronomy,5,10,It is related to Light year but I forgot details.,Light year is distance light travels in one year
+S036,What is multiprocessing?,Advanced Python,7,10,It is related to Multiprocessing runs but I forgot details.,Multiprocessing runs processes in parallel
+S036,What is class?,Java,9,10,Class defines structure of and more.,Class defines structure of object
+S036,Define interface,Java,10,10,Interface defines methods without and more.,Interface defines methods without implementation
+S036,Define deforestation,Environmental Studies,5,10,It is related to Deforestation is but I forgot details.,Deforestation is removal of forests
+S036,What is scheduling?,OS,4,10,I am not sure about this topic.,CPU scheduling decides process execution order
+S036,Explain OOP concepts,Java,9,10,OOP uses encapsulation inheritance polymorphism and more.,OOP uses encapsulation inheritance polymorphism abstraction
+S036,Explain Vedanta,IKS,4,10,I am not sure about this topic.,Vedanta is philosophical system based on Vedas
+S037,Explain multithreading,Advanced Python,3,10,I am not sure about this topic.,Multithreading runs tasks concurrently
+S037,Define ozone layer,Environmental Studies,3,10,I am not sure about this topic.,Ozone layer protects from UV rays
+S037,Define galaxy,Computers in Space & Astronomy,9,10,Galaxy is a system of stars gas and and more.,Galaxy is a system of stars gas and dust
+S037,What is threading?,Advanced Python,3,10,I am not sure about this topic.,Threading allows concurrent execution of code
+S037,What is async?,Advanced Python,4,10,I am not sure about this topic.,Async allows non blocking execution
+S037,Explain water cycle,Environmental Studies,2,10,I am not sure about this topic.,Water cycle includes evaporation condensation precipitation
+S037,Explain encapsulation,Java,4,10,I am not sure about this topic.,Encapsulation binds data and methods together restricting access
+S037,Explain Vedas,IKS,2,10,I am not sure about this topic.,Vedas are ancient sacred Indian scriptures
+S037,Explain deadlock,OS,7,10,It is related to Deadlock is but I forgot details.,Deadlock is a situation where processes wait indefinitely
+S037,Explain OOP principles,Java,5,10,It is related to OOP includes but I forgot details.,OOP includes encapsulation inheritance polymorphism abstraction
+S038,Explain Vedas,IKS,4,10,I am not sure about this topic.,Vedas are ancient sacred Indian scriptures
+S038,What is scheduling?,OS,8,10,CPU scheduling decides process execution and more.,CPU scheduling decides process execution order
+S038,Explain recycling,Environmental Studies,7,10,It is related to Recycling converts but I forgot details.,Recycling converts waste into reusable material
+S038,Explain Ayurveda,IKS,4,10,I am not sure about this topic.,Ayurveda is ancient Indian system of medicine
+S038,Explain satellites,Computers in Space & Astronomy,5,10,It is related to Satellites orbit but I forgot details.,Satellites orbit planets for communication
+S038,Explain encapsulation,Java,6,10,It is related to Encapsulation binds but I forgot details.,Encapsulation binds data and methods together restricting access
+S038,Define thread,OS,4,10,I am not sure about this topic.,Thread is smallest unit of execution within a process
+S038,Explain GIL,Advanced Python,4,10,I am not sure about this topic.,Global Interpreter Lock prevents multiple native threads execution
+S038,Define biodiversity,Environmental Studies,6,10,It is related to Biodiversity is but I forgot details.,Biodiversity is variety of species in ecosystem
+S038,Explain generators,Advanced Python,4,10,I am not sure about this topic.,Generators produce sequence using yield
+S039,What is process?,OS,4,10,I am not sure about this topic.,A process is an active program with its resources
+S039,Explain water cycle,Environmental Studies,3,10,I am not sure about this topic.,Water cycle includes evaporation condensation precipitation
+S039,Explain generators,Advanced Python,9,10,Generators produce sequence using and more.,Generators produce sequence using yield
+S039,What is JVM?,Java,9,10,JVM executes bytecode and provides platform and more.,JVM executes bytecode and provides platform independence
+S039,What is IKS?,IKS,5,10,It is related to IKS studies but I forgot details.,IKS studies traditional Indian knowledge systems
+S039,Explain pollution,Environmental Studies,5,10,It is related to Pollution is but I forgot details.,Pollution is contamination of environment
+S039,Explain satellites,Computers in Space & Astronomy,5,10,It is related to Satellites orbit but I forgot details.,Satellites orbit planets for communication
+S039,What is OS?,OS,5,10,It is related to OS manages but I forgot details.,OS manages hardware and software resources
+S039,Explain abstraction,Java,9,10,Abstraction hides implementation and more.,Abstraction hides implementation details
+S039,Define universe,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Universe includes all space matter and energy
+S040,What is IKS?,IKS,4,10,I am not sure about this topic.,IKS studies traditional Indian knowledge systems
+S040,Explain paging,OS,10,10,Paging divides memory into fixed size and more.,Paging divides memory into fixed size pages
+S040,Explain list comprehension,Advanced Python,5,10,It is related to List comprehension but I forgot details.,List comprehension provides concise syntax for lists
+S040,What is scheduling?,OS,8,10,CPU scheduling decides process execution and more.,CPU scheduling decides process execution order
+S040,Define interface,Java,2,10,I am not sure about this topic.,Interface defines methods without implementation
+S040,What is multiprocessing?,Advanced Python,3,10,I am not sure about this topic.,Multiprocessing runs processes in parallel
+S040,Define universe,Computers in Space & Astronomy,8,10,Universe includes all space matter and and more.,Universe includes all space matter and energy
+S040,Explain water cycle,Environmental Studies,3,10,I am not sure about this topic.,Water cycle includes evaporation condensation precipitation
+S040,Explain Indian mathematics,IKS,4,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S040,Define virtual memory,OS,10,10,Virtual memory uses disk as memory and more.,Virtual memory uses disk as memory extension
+S041,Define thread,OS,4,10,I am not sure about this topic.,Thread is smallest unit of execution within a process
+S041,Explain Indian mathematics,IKS,5,10,It is related to Indian mathematics but I forgot details.,Indian mathematics contributed zero and algebra
+S041,What is class?,Java,7,10,It is related to Class defines but I forgot details.,Class defines structure of object
+S041,Explain Vedanta,IKS,4,10,I am not sure about this topic.,Vedanta is philosophical system based on Vedas
+S041,Explain black hole,Computers in Space & Astronomy,8,10,Black holes have gravitational pull so strong nothing and more.,Black holes have gravitational pull so strong nothing escapes
+S041,Explain GIL,Advanced Python,6,10,It is related to Global Interpreter but I forgot details.,Global Interpreter Lock prevents multiple native threads execution
+S041,Explain generators,Advanced Python,5,10,It is related to Generators produce but I forgot details.,Generators produce sequence using yield
+S041,Explain climate change,Environmental Studies,7,10,It is related to Climate change but I forgot details.,Climate change refers to long term weather changes
+S041,What is process?,OS,4,10,I am not sure about this topic.,A process is an active program with its resources
+S041,Define biodiversity,Environmental Studies,7,10,It is related to Biodiversity is but I forgot details.,Biodiversity is variety of species in ecosystem
+S042,What is sustainability?,Environmental Studies,5,10,It is related to Sustainability meets but I forgot details.,Sustainability meets needs without harming future
+S042,What is async?,Advanced Python,10,10,Async allows non blocking and more.,Async allows non blocking execution
+S042,Explain star formation,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Stars form from gas clouds
+S042,What is threading?,Advanced Python,10,10,Threading allows concurrent execution of and more.,Threading allows concurrent execution of code
+S042,Define interface,Java,9,10,Interface defines methods without and more.,Interface defines methods without implementation
+S042,Explain inheritance,Java,7,10,It is related to Inheritance allows but I forgot details.,Inheritance allows a class to acquire properties of another class
+S042,Explain abstraction,Java,9,10,Abstraction hides implementation and more.,Abstraction hides implementation details
+S042,Define deforestation,Environmental Studies,2,10,I am not sure about this topic.,Deforestation is removal of forests
+S042,Define ecosystem,Environmental Studies,4,10,I am not sure about this topic.,Ecosystem is interaction of living and nonliving components
+S042,Define Yoga,IKS,5,10,It is related to Yoga is but I forgot details.,Yoga is physical mental spiritual practice
+S043,What is NASA?,Computers in Space & Astronomy,7,10,It is related to NASA is but I forgot details.,NASA is US space agency
+S043,Explain OOP principles,Java,4,10,I am not sure about this topic.,OOP includes encapsulation inheritance polymorphism abstraction
+S043,Explain file system,OS,8,10,File system organizes and stores and more.,File system organizes and stores data
+S043,What is telescope?,Computers in Space & Astronomy,8,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S043,Define deforestation,Environmental Studies,5,10,It is related to Deforestation is but I forgot details.,Deforestation is removal of forests
+S043,Explain deadlock,OS,8,10,Deadlock is a situation where processes wait and more.,Deadlock is a situation where processes wait indefinitely
+S043,Explain exception handling,Java,3,10,I am not sure about this topic.,Exception handling manages runtime errors
+S043,Explain recycling,Environmental Studies,5,10,It is related to Recycling converts but I forgot details.,Recycling converts waste into reusable material
+S043,Explain lambda functions,Advanced Python,4,10,I am not sure about this topic.,Lambda functions are small anonymous inline functions
+S043,Define polymorphism,Java,2,10,I am not sure about this topic.,Polymorphism allows methods to take many forms including overriding
+S044,Define Gurukul,IKS,6,10,It is related to Gurukul is but I forgot details.,Gurukul is traditional Indian education system
+S044,Explain Vedas,IKS,8,10,Vedas are ancient sacred Indian and more.,Vedas are ancient sacred Indian scriptures
+S044,Explain lambda functions,Advanced Python,7,10,It is related to Lambda functions but I forgot details.,Lambda functions are small anonymous inline functions
+S044,Explain paging,OS,7,10,It is related to Paging divides but I forgot details.,Paging divides memory into fixed size pages
+S044,Explain nebula,Computers in Space & Astronomy,7,10,It is related to Nebula is but I forgot details.,Nebula is cloud of gas and dust
+S044,What is telescope?,Computers in Space & Astronomy,5,10,It is related to Telescope collects but I forgot details.,Telescope collects light to observe distant objects
+S044,Explain Dharma,IKS,6,10,It is related to Dharma refers but I forgot details.,Dharma refers to duty and ethics
+S044,Define polymorphism,Java,8,10,Polymorphism allows methods to take many forms including and more.,Polymorphism allows methods to take many forms including overriding
+S044,What is OS?,OS,8,10,OS manages hardware and software and more.,OS manages hardware and software resources
+S044,Define kernel,OS,6,10,It is related to Kernel manages but I forgot details.,Kernel manages hardware and system calls
+S045,Define polymorphism,Java,10,10,Polymorphism allows methods to take many forms including and more.,Polymorphism allows methods to take many forms including overriding
+S045,What is NASA?,Computers in Space & Astronomy,2,10,I am not sure about this topic.,NASA is US space agency
+S045,What is async?,Advanced Python,9,10,Async allows non blocking and more.,Async allows non blocking execution
+S045,What is OS?,OS,2,10,I am not sure about this topic.,OS manages hardware and software resources
+S045,Explain star formation,Computers in Space & Astronomy,5,10,It is related to Stars form but I forgot details.,Stars form from gas clouds
+S045,Explain paging,OS,2,10,I am not sure about this topic.,Paging divides memory into fixed size pages
+S045,Define galaxy,Computers in Space & Astronomy,2,10,I am not sure about this topic.,Galaxy is a system of stars gas and dust
+S045,Explain recycling,Environmental Studies,5,10,It is related to Recycling converts but I forgot details.,Recycling converts waste into reusable material
+S045,Define kernel,OS,5,10,It is related to Kernel manages but I forgot details.,Kernel manages hardware and system calls
+S045,Explain inheritance,Java,8,10,Inheritance allows a class to acquire properties of another and more.,Inheritance allows a class to acquire properties of another class
+S046,What is sustainability?,Environmental Studies,5,10,It is related to Sustainability meets but I forgot details.,Sustainability meets needs without harming future
+S046,What is IKS?,IKS,5,10,It is related to IKS studies but I forgot details.,IKS studies traditional Indian knowledge systems
+S046,Explain climate change,Environmental Studies,4,10,I am not sure about this topic.,Climate change refers to long term weather changes
+S046,Explain deadlock,OS,10,10,Deadlock is a situation where processes wait and more.,Deadlock is a situation where processes wait indefinitely
+S046,What is NASA?,Computers in Space & Astronomy,10,10,NASA is US space and more.,NASA is US space agency
+S046,Define galaxy,Computers in Space & Astronomy,7,10,It is related to Galaxy is but I forgot details.,Galaxy is a system of stars gas and dust
+S046,Define kernel,OS,10,10,Kernel manages hardware and system and more.,Kernel manages hardware and system calls
+S046,Define deforestation,Environmental Studies,5,10,It is related to Deforestation is but I forgot details.,Deforestation is removal of forests
+S046,Explain OOP principles,Java,3,10,I am not sure about this topic.,OOP includes encapsulation inheritance polymorphism abstraction
+S046,Explain paging,OS,9,10,Paging divides memory into fixed size and more.,Paging divides memory into fixed size pages
+S047,Explain GIL,Advanced Python,4,10,I am not sure about this topic.,Global Interpreter Lock prevents multiple native threads execution
+S047,What is JVM?,Java,4,10,I am not sure about this topic.,JVM executes bytecode and provides platform independence
+S047,Define ozone layer,Environmental Studies,5,10,It is related to Ozone layer but I forgot details.,Ozone layer protects from UV rays
+S047,Explain carbon footprint,Environmental Studies,7,10,It is related to Carbon footprint but I forgot details.,Carbon footprint measures greenhouse gases
+S047,Explain encapsulation,Java,4,10,I am not sure about this topic.,Encapsulation binds data and methods together restricting access
+S047,Define galaxy,Computers in Space & Astronomy,7,10,It is related to Galaxy is but I forgot details.,Galaxy is a system of stars gas and dust
+S047,Explain abstraction,Java,8,10,Abstraction hides implementation and more.,Abstraction hides implementation details
+S047,What is process?,OS,7,10,It is related to A process but I forgot details.,A process is an active program with its resources
+S047,Explain list comprehension,Advanced Python,4,10,I am not sure about this topic.,List comprehension provides concise syntax for lists
+S047,Define kernel,OS,5,10,It is related to Kernel manages but I forgot details.,Kernel manages hardware and system calls
+S048,Define Charaka,IKS,5,10,It is related to Charaka was but I forgot details.,Charaka was ancient physician
+S048,Define galaxy,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Galaxy is a system of stars gas and dust
+S048,What is NASA?,Computers in Space & Astronomy,5,10,It is related to NASA is but I forgot details.,NASA is US space agency
+S048,Explain encapsulation,Java,8,10,Encapsulation binds data and methods together restricting and more.,Encapsulation binds data and methods together restricting access
+S048,Define ecosystem,Environmental Studies,5,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S048,Define polymorphism,Java,7,10,It is related to Polymorphism allows but I forgot details.,Polymorphism allows methods to take many forms including overriding
+S048,What is OS?,OS,3,10,I am not sure about this topic.,OS manages hardware and software resources
+S048,What is threading?,Advanced Python,9,10,Threading allows concurrent execution of and more.,Threading allows concurrent execution of code
+S048,Define Yoga,IKS,4,10,I am not sure about this topic.,Yoga is physical mental spiritual practice
+S048,Explain list comprehension,Advanced Python,7,10,It is related to List comprehension but I forgot details.,List comprehension provides concise syntax for lists
+S049,Define ecosystem,Environmental Studies,5,10,It is related to Ecosystem is but I forgot details.,Ecosystem is interaction of living and nonliving components
+S049,Define biodiversity,Environmental Studies,5,10,It is related to Biodiversity is but I forgot details.,Biodiversity is variety of species in ecosystem
+S049,Explain recycling,Environmental Studies,5,10,It is related to Recycling converts but I forgot details.,Recycling converts waste into reusable material
+S049,Explain encapsulation,Java,5,10,It is related to Encapsulation binds but I forgot details.,Encapsulation binds data and methods together restricting access
+S049,Explain Ayurveda,IKS,5,10,It is related to Ayurveda is but I forgot details.,Ayurveda is ancient Indian system of medicine
+S049,What is process?,OS,9,10,A process is an active program with its and more.,A process is an active program with its resources
+S049,Explain multithreading,Advanced Python,5,10,It is related to Multithreading runs but I forgot details.,Multithreading runs tasks concurrently
+S049,Define interface,Java,5,10,It is related to Interface defines but I forgot details.,Interface defines methods without implementation
+S049,What is class?,Java,5,10,It is related to Class defines but I forgot details.,Class defines structure of object
+S049,Explain Vedanta,IKS,2,10,I am not sure about this topic.,Vedanta is philosophical system based on Vedas
+S050,Define virtual memory,OS,8,10,Virtual memory uses disk as memory and more.,Virtual memory uses disk as memory extension
+S050,Define ozone layer,Environmental Studies,8,10,Ozone layer protects from UV and more.,Ozone layer protects from UV rays
+S050,Define polymorphism,Java,8,10,Polymorphism allows methods to take many forms including and more.,Polymorphism allows methods to take many forms including overriding
+S050,Define Charaka,IKS,5,10,It is related to Charaka was but I forgot details.,Charaka was ancient physician
+S050,Define ecosystem,Environmental Studies,8,10,Ecosystem is interaction of living and nonliving and more.,Ecosystem is interaction of living and nonliving components
+S050,Explain semaphore,OS,7,10,It is related to Semaphore controls but I forgot details.,Semaphore controls access to resources
+S050,What is async?,Advanced Python,6,10,It is related to Async allows but I forgot details.,Async allows non blocking execution
+S050,What is class?,Java,7,10,It is related to Class defines but I forgot details.,Class defines structure of object
+S050,What is JVM?,Java,8,10,JVM executes bytecode and provides platform and more.,JVM executes bytecode and provides platform independence
+S050,Explain OOP concepts,Java,7,10,It is related to OOP uses but I forgot details.,OOP uses encapsulation inheritance polymorphism abstraction
+S051,What is OS?,OS,5,10,It is related to OS manages but I forgot details.,OS manages hardware and software resources
+S051,Define Charaka,IKS,3,10,I am not sure about this topic.,Charaka was ancient physician
+S051,Define biodiversity,Environmental Studies,5,10,It is related to Biodiversity is but I forgot details.,Biodiversity is variety of species in ecosystem
+S051,Explain climate change,Environmental Studies,5,10,It is related to Climate change but I forgot details.,Climate change refers to long term weather changes
+S051,Explain nebula,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Nebula is cloud of gas and dust
+S051,Explain Dharma,IKS,3,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S051,What is telescope?,Computers in Space & Astronomy,2,10,I am not sure about this topic.,Telescope collects light to observe distant objects
+S051,Explain OOP principles,Java,9,10,OOP includes encapsulation inheritance polymorphism and more.,OOP includes encapsulation inheritance polymorphism abstraction
+S051,Explain OOP concepts,Java,10,10,OOP uses encapsulation inheritance polymorphism and more.,OOP uses encapsulation inheritance polymorphism abstraction
+S051,What is process?,OS,2,10,I am not sure about this topic.,A process is an active program with its resources
+S052,Explain abstraction,Java,5,10,It is related to Abstraction hides but I forgot details.,Abstraction hides implementation details
+S052,What is telescope?,Computers in Space & Astronomy,9,10,Telescope collects light to observe distant and more.,Telescope collects light to observe distant objects
+S052,Define polymorphism,Java,5,10,It is related to Polymorphism allows but I forgot details.,Polymorphism allows methods to take many forms including overriding
+S052,Explain water cycle,Environmental Studies,5,10,It is related to Water cycle but I forgot details.,Water cycle includes evaporation condensation precipitation
+S052,Define interface,Java,3,10,I am not sure about this topic.,Interface defines methods without implementation
+S052,Define Yoga,IKS,3,10,I am not sure about this topic.,Yoga is physical mental spiritual practice
+S052,Explain satellites,Computers in Space & Astronomy,8,10,Satellites orbit planets for and more.,Satellites orbit planets for communication
+S052,What is Sanskrit?,IKS,4,10,I am not sure about this topic.,Sanskrit is classical Indian language used in texts
+S052,Explain Dharma,IKS,4,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S052,What is class?,Java,5,10,It is related to Class defines but I forgot details.,Class defines structure of object
+S053,Define light year,Computers in Space & Astronomy,6,10,It is related to Light year but I forgot details.,Light year is distance light travels in one year
+S053,Explain Dharma,IKS,6,10,It is related to Dharma refers but I forgot details.,Dharma refers to duty and ethics
+S053,Explain lambda functions,Advanced Python,5,10,It is related to Lambda functions but I forgot details.,Lambda functions are small anonymous inline functions
+S053,What is telescope?,Computers in Space & Astronomy,7,10,It is related to Telescope collects but I forgot details.,Telescope collects light to observe distant objects
+S053,Explain Indian mathematics,IKS,4,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S053,Explain deadlock,OS,4,10,I am not sure about this topic.,Deadlock is a situation where processes wait indefinitely
+S053,Explain black hole,Computers in Space & Astronomy,8,10,Black holes have gravitational pull so strong nothing and more.,Black holes have gravitational pull so strong nothing escapes
+S053,Explain inheritance,Java,5,10,It is related to Inheritance allows but I forgot details.,Inheritance allows a class to acquire properties of another class
+S053,What is sustainability?,Environmental Studies,4,10,I am not sure about this topic.,Sustainability meets needs without harming future
+S053,Define orbit,Computers in Space & Astronomy,5,10,It is related to Orbit is but I forgot details.,Orbit is curved path of celestial body
+S054,What is NASA?,Computers in Space & Astronomy,4,10,I am not sure about this topic.,NASA is US space agency
+S054,What is process?,OS,2,10,I am not sure about this topic.,A process is an active program with its resources
+S054,Explain GIL,Advanced Python,10,10,Global Interpreter Lock prevents multiple native threads and more.,Global Interpreter Lock prevents multiple native threads execution
+S054,Explain nebula,Computers in Space & Astronomy,2,10,I am not sure about this topic.,Nebula is cloud of gas and dust
+S054,Explain deadlock,OS,3,10,I am not sure about this topic.,Deadlock is a situation where processes wait indefinitely
+S054,Define deforestation,Environmental Studies,5,10,It is related to Deforestation is but I forgot details.,Deforestation is removal of forests
+S054,Explain black hole,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Black holes have gravitational pull so strong nothing escapes
+S054,Explain generators,Advanced Python,9,10,Generators produce sequence using and more.,Generators produce sequence using yield
+S054,Explain Ayurveda,IKS,3,10,I am not sure about this topic.,Ayurveda is ancient Indian system of medicine
+S054,Define ozone layer,Environmental Studies,4,10,I am not sure about this topic.,Ozone layer protects from UV rays
+S055,What is multiprocessing?,Advanced Python,2,10,I am not sure about this topic.,Multiprocessing runs processes in parallel
+S055,Explain carbon footprint,Environmental Studies,4,10,I am not sure about this topic.,Carbon footprint measures greenhouse gases
+S055,Explain satellites,Computers in Space & Astronomy,10,10,Satellites orbit planets for and more.,Satellites orbit planets for communication
+S055,Explain recycling,Environmental Studies,5,10,It is related to Recycling converts but I forgot details.,Recycling converts waste into reusable material
+S055,Explain semaphore,OS,10,10,Semaphore controls access to and more.,Semaphore controls access to resources
+S055,What is threading?,Advanced Python,4,10,I am not sure about this topic.,Threading allows concurrent execution of code
+S055,What is process?,OS,8,10,A process is an active program with its and more.,A process is an active program with its resources
+S055,Explain black hole,Computers in Space & Astronomy,8,10,Black holes have gravitational pull so strong nothing and more.,Black holes have gravitational pull so strong nothing escapes
+S055,Explain star formation,Computers in Space & Astronomy,10,10,Stars form from gas and more.,Stars form from gas clouds
+S055,Define light year,Computers in Space & Astronomy,7,10,It is related to Light year but I forgot details.,Light year is distance light travels in one year
+S056,Define thread,OS,8,10,Thread is smallest unit of execution within a and more.,Thread is smallest unit of execution within a process
+S056,Explain deadlock,OS,5,10,It is related to Deadlock is but I forgot details.,Deadlock is a situation where processes wait indefinitely
+S056,Explain star formation,Computers in Space & Astronomy,4,10,I am not sure about this topic.,Stars form from gas clouds
+S056,Explain semaphore,OS,7,10,It is related to Semaphore controls but I forgot details.,Semaphore controls access to resources
+S056,Define Charaka,IKS,4,10,I am not sure about this topic.,Charaka was ancient physician
+S056,Define virtual memory,OS,5,10,It is related to Virtual memory but I forgot details.,Virtual memory uses disk as memory extension
+S056,Explain file system,OS,5,10,It is related to File system but I forgot details.,File system organizes and stores data
+S056,Explain exception handling,Java,7,10,It is related to Exception handling but I forgot details.,Exception handling manages runtime errors
+S056,Explain generators,Advanced Python,8,10,Generators produce sequence using and more.,Generators produce sequence using yield
+S056,Explain Indian mathematics,IKS,8,10,Indian mathematics contributed zero and and more.,Indian mathematics contributed zero and algebra
+S057,Explain pollution,Environmental Studies,4,10,I am not sure about this topic.,Pollution is contamination of environment
+S057,What is Sanskrit?,IKS,3,10,I am not sure about this topic.,Sanskrit is classical Indian language used in texts
+S057,Explain water cycle,Environmental Studies,4,10,I am not sure about this topic.,Water cycle includes evaporation condensation precipitation
+S057,Explain paging,OS,4,10,I am not sure about this topic.,Paging divides memory into fixed size pages
+S057,Define polymorphism,Java,10,10,Polymorphism allows methods to take many forms including and more.,Polymorphism allows methods to take many forms including overriding
+S057,Define biodiversity,Environmental Studies,5,10,It is related to Biodiversity is but I forgot details.,Biodiversity is variety of species in ecosystem
+S057,Explain star formation,Computers in Space & Astronomy,5,10,It is related to Stars form but I forgot details.,Stars form from gas clouds
+S057,What is OS?,OS,2,10,I am not sure about this topic.,OS manages hardware and software resources
+S057,Explain lambda functions,Advanced Python,7,10,It is related to Lambda functions but I forgot details.,Lambda functions are small anonymous inline functions
+S057,What is async?,Advanced Python,10,10,Async allows non blocking and more.,Async allows non blocking execution
+S058,Explain Indian mathematics,IKS,3,10,I am not sure about this topic.,Indian mathematics contributed zero and algebra
+S058,Define galaxy,Computers in Space & Astronomy,9,10,Galaxy is a system of stars gas and and more.,Galaxy is a system of stars gas and dust
+S058,Explain satellites,Computers in Space & Astronomy,7,10,It is related to Satellites orbit but I forgot details.,Satellites orbit planets for communication
+S058,Define kernel,OS,9,10,Kernel manages hardware and system and more.,Kernel manages hardware and system calls
+S058,Explain star formation,Computers in Space & Astronomy,10,10,Stars form from gas and more.,Stars form from gas clouds
+S058,Explain black hole,Computers in Space & Astronomy,9,10,Black holes have gravitational pull so strong nothing and more.,Black holes have gravitational pull so strong nothing escapes
+S058,Explain abstraction,Java,2,10,I am not sure about this topic.,Abstraction hides implementation details
+S058,Explain GIL,Advanced Python,3,10,I am not sure about this topic.,Global Interpreter Lock prevents multiple native threads execution
+S058,Define thread,OS,9,10,Thread is smallest unit of execution within a and more.,Thread is smallest unit of execution within a process
+S058,Define virtual memory,OS,7,10,It is related to Virtual memory but I forgot details.,Virtual memory uses disk as memory extension
+S059,What is sustainability?,Environmental Studies,7,10,It is related to Sustainability meets but I forgot details.,Sustainability meets needs without harming future
+S059,Explain Vedas,IKS,4,10,I am not sure about this topic.,Vedas are ancient sacred Indian scriptures
+S059,Explain semaphore,OS,4,10,I am not sure about this topic.,Semaphore controls access to resources
+S059,Explain Dharma,IKS,4,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S059,Explain OOP principles,Java,5,10,It is related to OOP includes but I forgot details.,OOP includes encapsulation inheritance polymorphism abstraction
+S059,Define interface,Java,5,10,It is related to Interface defines but I forgot details.,Interface defines methods without implementation
+S059,What is NASA?,Computers in Space & Astronomy,6,10,It is related to NASA is but I forgot details.,NASA is US space agency
+S059,What is decorator?,Advanced Python,8,10,Decorators modify behavior of functions and more.,Decorators modify behavior of functions dynamically
+S059,Define galaxy,Computers in Space & Astronomy,8,10,Galaxy is a system of stars gas and and more.,Galaxy is a system of stars gas and dust
+S059,Explain Indian mathematics,IKS,7,10,It is related to Indian mathematics but I forgot details.,Indian mathematics contributed zero and algebra
+S060,Explain pollution,Environmental Studies,5,10,It is related to Pollution is but I forgot details.,Pollution is contamination of environment
+S060,Define universe,Computers in Space & Astronomy,3,10,I am not sure about this topic.,Universe includes all space matter and energy
+S060,Explain lambda functions,Advanced Python,7,10,It is related to Lambda functions but I forgot details.,Lambda functions are small anonymous inline functions
+S060,Explain pandas,Advanced Python,8,10,Pandas is used for data and more.,Pandas is used for data manipulation
+S060,What is process?,OS,4,10,I am not sure about this topic.,A process is an active program with its resources
+S060,Define Gurukul,IKS,3,10,I am not sure about this topic.,Gurukul is traditional Indian education system
+S060,Explain multithreading,Advanced Python,7,10,It is related to Multithreading runs but I forgot details.,Multithreading runs tasks concurrently
+S060,Explain Dharma,IKS,2,10,I am not sure about this topic.,Dharma refers to duty and ethics
+S060,Explain exception handling,Java,10,10,Exception handling manages runtime and more.,Exception handling manages runtime errors
+S060,Explain semaphore,OS,3,10,I am not sure about this topic.,Semaphore controls access to resources

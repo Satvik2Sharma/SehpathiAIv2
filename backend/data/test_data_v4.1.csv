@@ -1,0 +1,4 @@
+student_id,question,topic,marks,total_marks,student_answer,model_answer
+ST-TEST,What is 2+2?,Algebra,4,4,The sum of two and two is four.,"2+2 equals 4. The sum of two integers is their collective value."
+ST-TEST,Define a triangle.,Geometry,1,4,It has sides.,A triangle is a polygon with three edges and three vertices.
+ST-TEST,What is a derivative?,Calculus,2,4,It is the rate of change of a function with respect to a variable.,The derivative of a function of a real variable measures the sensitivity to change of the function value with respect to a change in its argument.

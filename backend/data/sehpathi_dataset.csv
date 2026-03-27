@@ -1,0 +1,61 @@
+student_id,section,question,subject,marks,total_marks,student_answer,model_answer
+S001,A,Explain OOP principles,Java,6,10,Classes and objects are used,OOP includes encapsulation inheritance polymorphism abstraction
+S002,A,What is JVM?,Java,7,10,JVM runs Java bytecode,JVM executes bytecode and provides platform independence
+S003,A,Explain inheritance,Java,4,10,It means reuse of code,Inheritance allows a class to acquire properties of another class
+S004,A,Define polymorphism,Java,8,10,Many forms method overloading,Polymorphism allows methods to take many forms including overriding
+S005,A,Explain encapsulation,Java,5,10,Data hiding concept,Encapsulation binds data and methods together restricting access
+S006,A,What is threading?,Advanced Python,6,10,Running multiple tasks,Threading allows concurrent execution of code
+S007,A,Explain GIL,Advanced Python,3,10,It is a lock,Global Interpreter Lock prevents multiple native threads execution
+S008,A,What is decorator?,Advanced Python,7,10,Function wrapper,Decorators modify behavior of functions dynamically
+S009,A,Explain lambda functions,Advanced Python,8,10,Anonymous functions,Lambda functions are small anonymous inline functions
+S010,A,Explain list comprehension,Advanced Python,9,10,Short syntax,List comprehension provides concise syntax for lists
+S011,A,What is process?,OS,6,10,Program in execution,A process is an active program with its resources
+S012,A,Define thread,OS,5,10,Lightweight process,Thread is smallest unit of execution within a process
+S013,A,Explain deadlock,OS,3,10,System stops,Deadlock is a situation where processes wait indefinitely
+S014,A,What is scheduling?,OS,7,10,CPU management,CPU scheduling decides process execution order
+S015,A,Explain paging,OS,4,10,Memory division,Paging divides memory into fixed size pages
+S016,A,Define orbit,Computers in Space & Astronomy,8,10,Path of planet,Orbit is curved path of celestial body
+S017,A,Explain satellites,Computers in Space & Astronomy,6,10,Objects in space,Satellites orbit planets for communication
+S018,A,What is telescope?,Computers in Space & Astronomy,9,10,Device to see stars,Telescope collects light to observe distant objects
+S019,A,Explain black hole,Computers in Space & Astronomy,5,10,Strong gravity,Black holes have gravitational pull so strong nothing escapes
+S020,A,Define galaxy,Computers in Space & Astronomy,7,10,Collection of stars,Galaxy is a system of stars gas and dust
+S021,B,What is IKS?,IKS,6,10,Indian knowledge,IKS studies traditional Indian knowledge systems
+S022,B,Explain Ayurveda,IKS,7,10,Medical system,Ayurveda is ancient Indian system of medicine
+S023,B,Define Yoga,IKS,8,10,Exercise,Yoga is physical mental spiritual practice
+S024,B,Explain Vedas,IKS,5,10,Old texts,Vedas are ancient sacred Indian scriptures
+S025,B,What is Sanskrit?,IKS,9,10,Language,Sanskrit is classical Indian language used in texts
+S026,B,Define ecosystem,Environmental Studies,8,10,Living system,Ecosystem is interaction of living and nonliving components
+S027,B,Explain pollution,Environmental Studies,6,10,Dirty environment,Pollution is contamination of environment
+S028,B,Define biodiversity,Environmental Studies,7,10,Variety of life,Biodiversity is variety of species in ecosystem
+S029,B,Explain climate change,Environmental Studies,5,10,Global warming,Climate change refers to long term weather changes
+S030,B,What is sustainability?,Environmental Studies,9,10,Save resources,Sustainability meets needs without harming future
+S031,B,Explain OOP concepts,Java,7,10,Classes objects,OOP uses encapsulation inheritance polymorphism abstraction
+S032,B,What is class?,Java,6,10,Blueprint,Class defines structure of object
+S033,B,Explain abstraction,Java,4,10,Hiding details,Abstraction hides implementation details
+S034,B,Define interface,Java,5,10,Contract,Interface defines methods without implementation
+S035,B,Explain exception handling,Java,8,10,Try catch,Exception handling manages runtime errors
+S036,B,Explain multithreading,Advanced Python,7,10,Multiple tasks,Multithreading runs tasks concurrently
+S037,B,What is multiprocessing?,Advanced Python,6,10,Many processes,Multiprocessing runs processes in parallel
+S038,B,Explain generators,Advanced Python,8,10,Yield values,Generators produce sequence using yield
+S039,B,What is async?,Advanced Python,5,10,Async code,Async allows non blocking execution
+S040,B,Explain pandas,Advanced Python,9,10,Data library,Pandas is used for data manipulation
+S041,C,Define kernel,OS,7,10,Core of OS,Kernel manages hardware and system calls
+S042,C,Explain file system,OS,6,10,Storage system,File system organizes and stores data
+S043,C,Define virtual memory,OS,5,10,Extra memory,Virtual memory uses disk as memory extension
+S044,C,Explain semaphore,OS,4,10,Signal,Semaphore controls access to resources
+S045,C,What is OS?,OS,9,10,System software,OS manages hardware and software resources
+S046,C,Define universe,Computers in Space & Astronomy,9,10,Everything,Universe includes all space matter and energy
+S047,C,Explain star formation,Computers in Space & Astronomy,7,10,Stars form,Stars form from gas clouds
+S048,C,Define light year,Computers in Space & Astronomy,8,10,Distance unit,Light year is distance light travels in one year
+S049,C,Explain nebula,Computers in Space & Astronomy,6,10,Cloud,Nebula is cloud of gas and dust
+S050,C,What is NASA?,Computers in Space & Astronomy,9,10,Space agency,NASA is US space agency
+S051,C,Explain Indian mathematics,IKS,8,10,Ancient math,Indian mathematics contributed zero and algebra
+S052,C,Define Charaka,IKS,7,10,Doctor,Charaka was ancient physician
+S053,C,Explain Vedanta,IKS,6,10,Philosophy,Vedanta is philosophical system based on Vedas
+S054,C,Define Gurukul,IKS,5,10,School,Gurukul is traditional Indian education system
+S055,C,Explain Dharma,IKS,9,10,Duty,Dharma refers to duty and ethics
+S056,C,Explain water cycle,Environmental Studies,8,10,Cycle,Water cycle includes evaporation condensation precipitation
+S057,C,Define ozone layer,Environmental Studies,7,10,Layer,Ozone layer protects from UV rays
+S058,C,Explain recycling,Environmental Studies,6,10,Reuse,Recycling converts waste into reusable material
+S059,C,Define deforestation,Environmental Studies,5,10,Cutting trees,Deforestation is removal of forests
+S060,C,Explain carbon footprint,Environmental Studies,9,10,Emissions,Carbon footprint measures greenhouse gases
