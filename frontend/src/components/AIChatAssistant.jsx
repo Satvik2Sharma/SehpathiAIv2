@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from "react"
 import { Send, User, Bot, Sparkles, Trophy, BarChart2, List, Zap } from "lucide-react"
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "https://sehpaathiiv2-backend.onrender.com"
+const BACKEND_URL = (import.meta.env.VITE_BACKEND_URL || "https://sehpaathiiv2-backend.onrender.com").replace(/\/$/, "");
 
 export function AIChatAssistant() {
   const [messages, setMessages] = useState([
