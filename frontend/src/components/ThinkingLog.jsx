@@ -21,7 +21,7 @@ export function ThinkingLog({ active, onComplete }) {
   const bottomRef = useRef(null)
 
   useEffect(() => {
-    if (!active) { setLines([]); return }
+    if (!active) return
 
     const timers = THINKING_STEPS.map(({ delay, msg }) =>
       setTimeout(() => {
@@ -31,8 +31,11 @@ export function ThinkingLog({ active, onComplete }) {
         }
       }, delay)
     )
-    return () => timers.forEach(clearTimeout)
-  }, [active])
+    return () => {
+      timers.forEach(clearTimeout)
+      setLines([])
+    }
+  }, [active, onComplete])
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" })

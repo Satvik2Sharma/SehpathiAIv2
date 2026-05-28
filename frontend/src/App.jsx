@@ -104,7 +104,7 @@ export default function App() {
 
           {/* 4. AI CHAT ASSISTANT */}
           {activeTab === "chat" && data && (
-            <AIChatAssistant data={data} />
+            <AIChatAssistant />
           )}
         </main>
 
