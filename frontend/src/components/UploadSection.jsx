@@ -2,7 +2,7 @@ import { useState } from "react"
 import { motion } from "framer-motion"
 import { Upload, FileText, CheckCircle2, AlertCircle, Sparkles } from "lucide-react"
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "https://sehpaathiiv2-backend.onrender.com"
 
 export function UploadSection({ onAnalysisStart, onAnalysisDone }) {
   const [ansFile, setAnsFile] = useState(null)
