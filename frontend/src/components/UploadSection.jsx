@@ -2,7 +2,7 @@ import { useState } from "react"
 import { motion } from "framer-motion"
 import { Upload, FileText, CheckCircle2, AlertCircle, Sparkles } from "lucide-react"
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "http://127.0.0.1:8000"
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
 
 export function UploadSection({ onAnalysisStart, onAnalysisDone }) {
   const [ansFile, setAnsFile] = useState(null)

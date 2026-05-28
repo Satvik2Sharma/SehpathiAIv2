@@ -1,9 +1,9 @@
 import { useState, useRef, useEffect } from "react"
 import { Send, User, Bot, Sparkles, Trophy, BarChart2, List, Zap } from "lucide-react"
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "http://127.0.0.1:8000"
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
 
-export function AIChatAssistant({ data }) {
+export function AIChatAssistant() {
   const [messages, setMessages] = useState([
     {
       role: "bot",
@@ -40,7 +40,7 @@ export function AIChatAssistant({ data }) {
       })
       const result = await res.json()
       setMessages(prev => [...prev, { role: "bot", content: result }])
-    } catch (err) {
+    } catch {
       setMessages(prev => [...prev, { role: "bot", content: { answer: "Sync failure. Please ensure both datasets are active." } }])
     } finally {
       setLoading(false)
