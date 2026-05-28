@@ -63,18 +63,23 @@ export function Sidebar({ active, onNav, hasData }) {
         })}
       </nav>
 
-      {/* SDG Alignment Footer */}
+      {/* Personal Branding Footer */}
       <div className="mx-4 mb-8 rounded-[2rem] bg-indigo-500/5 border border-indigo-500/10 p-5 space-y-3 relative overflow-hidden group">
         <div className="absolute -right-4 -bottom-4 w-16 h-16 bg-indigo-500/10 rounded-full blur-2xl group-hover:scale-150 transition-transform duration-700" />
-        <div className="flex items-center gap-2 relative z-10">
-          <div className="w-6 h-6 rounded-lg bg-emerald-500/20 flex items-center justify-center">
-            <Globe size={12} className="text-emerald-400" />
+        <div className="flex flex-col gap-1 relative z-10">
+          <div className="flex items-center gap-2 mb-1">
+            <div className="w-6 h-6 rounded-lg bg-indigo-500/20 flex items-center justify-center">
+              <User size={12} className="text-indigo-400" />
+            </div>
+            <span className="text-[10px] font-black text-indigo-400 uppercase tracking-[0.2em]">Satvik Sharma</span>
           </div>
-          <span className="text-[9px] font-black text-emerald-400 uppercase tracking-[0.2em]">SDG 4 Standards</span>
+          <p className="text-[9px] text-slate-500 leading-relaxed font-bold uppercase tracking-tight">
+            AI Systems • Full-Stack • Analytics Engineering
+          </p>
+          <div className="mt-2 pt-2 border-t border-white/5 flex items-center justify-between">
+            <span className="text-[8px] text-slate-600 font-bold uppercase tracking-widest">© 2026 All Rights Reserved</span>
+          </div>
         </div>
-        <p className="text-[10px] text-slate-500 leading-relaxed font-bold uppercase tracking-tight relative z-10">
-          Personalized Quality Education powered by AI Analytics.
-        </p>
       </div>
     </aside>
   )
